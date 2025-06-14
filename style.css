@@ -250,3 +250,19 @@ a {
   border-right-style: dotted;
   border-right-color: var(--gris);
 }
+
+.hero{
+ border-bottom-width: 2px;
+  border-bottom-style: dotted;
+  border-bottom-color: var(--gris);
+}
+
+.titulo{
+   font-family: "Sanomat-Bold",Georgia, 'Times New Roman', Times, serif;
+   font-size:50px;
+   
+}
+.autor{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-small;
+}
